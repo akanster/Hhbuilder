@@ -1,6 +1,8 @@
 ## Solution to HHbuilder take home interview assigment from Ad Hoc.
+
 Original instructions below.
-***
+
+---
 
 # Hhbuilder
 
